@@ -1,0 +1,4 @@
+E:\Kamal\MedicSchedulerMileage\MedicSchedulerMileage\obj\x86\Debug\MedicSchedulerMileage.AlertMessage.resources
+E:\Kamal\MedicSchedulerMileage\MedicSchedulerMileage\obj\x86\Debug\MedicSchedulerMileage.FrmMain.resources
+E:\Kamal\MedicSchedulerMileage\MedicSchedulerMileage\obj\x86\Debug\MedicSchedulerMileage.Properties.Resources.resources
+E:\Kamal\MedicSchedulerMileage\MedicSchedulerMileage\obj\x86\Debug\MedicSchedulerMileage.csproj.GenerateResource.Cache
